@@ -35,7 +35,7 @@ public class NumberPicker extends LinearLayout {
     private static final int SELECTOR_MIDDLE_ITEM_INDEX = SELECTOR_WHEEL_ITEM_COUNT / 2;
     private static final int SELECTOR_MAX_FLING_VELOCITY_ADJUSTMENT = 8;
     private static final int SELECTOR_ADJUSTMENT_DURATION_MILLIS = 800;
-    private static final int SNAP_SCROLL_DURATION = 300;
+    private static final int SNAP_SCROLL_DURATION = 400;
     private static final float TOP_AND_BOTTOM_FADING_EDGE_STRENGTH = 0.9f;
     private static final int UNSCALED_DEFAULT_SELECTION_DIVIDER_HEIGHT = 2;
     private static final int UNSCALED_DEFAULT_SELECTION_DIVIDERS_DISTANCE = 48;
