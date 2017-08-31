@@ -26,7 +26,6 @@ public class TimePicker extends FrameLayout {
                 R.layout.time_picker, this, true);
 
 
-
         hourPicker = (NumberPicker) findViewById(R.id.time_hours);
         minPicker = (NumberPicker) findViewById(R.id.time_minutes);
         ampmPicker = (NumberPicker) findViewById(R.id.time_am_pm);
